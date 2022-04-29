@@ -1,3 +1,4 @@
+// 配列を使用して、テストの合計点と平均点を求める。
 #include <iostream>
 
 using namespace std;
